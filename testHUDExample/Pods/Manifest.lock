@@ -1,0 +1,16 @@
+PODS:
+  - testHUD (0.0.1)
+
+DEPENDENCIES:
+  - testHUD (from `../`)
+
+EXTERNAL SOURCES:
+  testHUD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  testHUD: fdd5c59b38392e99a3d949d9b9f1572319231525
+
+PODFILE CHECKSUM: 1c708c5730545e9cb15ad3fa31f92ce83c6a3957
+
+COCOAPODS: 1.5.0

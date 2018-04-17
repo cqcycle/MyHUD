@@ -1,0 +1,6 @@
+platform :ios, ‘8.0’
+
+target 'testHUDExample' do
+# pod 'testHUD', :path => '../'
+end
+pod 'testHUD', ‘~0.0.1’
